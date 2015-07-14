@@ -1,0 +1,23 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Colorsublime",
+		"GitGutter",
+		"Indent XML",
+		"Jinja2",
+		"Package Control",
+		"SaltStack-related syntax highlighting and snippets",
+		"SideBarEnhancements",
+		"Sublimerge Pro",
+		"Theme - Afterglow",
+		"Themr"
+	],
+	"repositories":
+	[
+		"https://github.com/saltstack/sublime-text"
+	]
+}
