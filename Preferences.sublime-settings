@@ -4,7 +4,8 @@
 	"color_inactive_tabs": false,
 	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"enable_signatures_tooltip": "true",
-	"font_size": 10,
+	"font_size": 11,
+	"git_binary": "J:\\Program Files (x86)\\Git\\bin\\git.exe",
 	"ignored_packages":
 	[
 		"Vintage"
