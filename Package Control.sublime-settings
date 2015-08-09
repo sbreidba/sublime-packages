@@ -13,9 +13,11 @@
 		"Pretty YAML",
 		"SaltStack-related syntax highlighting and snippets",
 		"SideBarEnhancements",
+		"SublimeREPL",
 		"Sublimerge Pro",
 		"Theme - Afterglow",
-		"Themr"
+		"Themr",
+		"Virtualenv"
 	],
 	"repositories":
 	[
