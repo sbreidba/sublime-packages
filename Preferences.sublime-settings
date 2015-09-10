@@ -1,23 +1,17 @@
 {
-	"anaconda_gutter_theme": "alpha",
-	"anaconda_linter_mark_style": "none",
 	"color_inactive_tabs": false,
 	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
-	"enable_signatures_tooltip": "true",
 	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"merge_signatures_and_doc": "true",
-	"python_interpreter": "c:/python34/python",
 	"status_bar_brighter": false,
 	"tab_size": 4,
 	"tabs_label_not_italic": true,
 	"tabs_padding_small": true,
 	"tabs_small": true,
 	"theme": "Afterglow.sublime-theme",
-	"three_way_layout": 1,
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }
