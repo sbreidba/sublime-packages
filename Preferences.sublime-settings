@@ -1,7 +1,7 @@
 {
 	"color_inactive_tabs": false,
 	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
-	"font_size": 10,
+	"font_size": 9,
 	"ignored_packages":
 	[
 		"Markdown",
