@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"Advanced CSV",
 		"Anaconda",
+		"AngularJS",
 		"Colorsublime",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
@@ -13,6 +15,7 @@
 		"Jinja2",
 		"Markdown Extended",
 		"Markdown Preview",
+		"MarkdownTOC",
 		"Package Control",
 		"Pretty YAML",
 		"Python Fix Imports",
