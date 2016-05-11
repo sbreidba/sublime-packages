@@ -7,6 +7,7 @@
 		"Markdown",
 		"Vintage"
 	],
+	"show_full_path": false,
 	"status_bar_brighter": false,
 	"tab_size": 4,
 	"tabs_label_not_italic": true,
